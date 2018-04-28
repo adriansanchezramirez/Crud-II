@@ -9,7 +9,7 @@ Página principal del Crud
 <img src="css/2.PNG" >
 
 Página de modificación del Crud
-<img src="css/1.PNG" >
+<img src="css/3.PNG" >
 
 Página que muestra el ArrayList
 <img src="css/4.PNG" >
