@@ -1,0 +1,82 @@
+.opcion {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    margin:0 auto;
+    border-spacing: 0px;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #DAF7A6;
+    text-align: center;
+
+}
+.t1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    margin:0 auto;
+    border-spacing: 0px;
+    background:#F99F8C;
+    border-radius: 13px 13px 13px 13px;
+    -moz-border-radius: 13px 13px 13px 13px;
+    -webkit-border-radius: 13px 13px 13px 13px;
+    border: 0px solid #000000;
+}
+.uno{
+    background: #DAF7A6;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    padding:15px;
+
+}
+
+th{
+    font-family: 'Roboto', sans-serif;
+    padding:15px;
+    background-color:#F99F8C;
+    text-align: center;
+    border-radius: 13px 13px 13px 13px;
+    -moz-border-radius: 13px 13px 13px 13px;
+    -webkit-border-radius: 13px 13px 13px 13px;
+    border: 0px solid #000000;
+}
+tbody td{
+    padding:10px;
+    background-color:#FEDAD2;
+}
+.names{
+    padding:15px;
+    background-color:#DAF7A6;
+    font-family: 'Roboto', sans-serif;
+}.todo {
+    text-align: center;
+}
+
+.boton {
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid #dedede;
+    color: #555;
+    display: inline-block;
+    font: bold 12px/12px HelveticaNeue, Arial;
+    padding: 8px 11px;
+    background:none;
+}
+
+.names2 {
+    padding:15px;
+    background-color:#C2E7FC;
+    background:#159EEC;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    margin:0 auto;
+    border-spacing: 0px;
+    -moz-border-radius: 13px 13px 13px 13px;
+    -webkit-border-radius: 13px 13px 13px 13px;
+
+}
+
+.fuente-btn {
+
+}
